@@ -1,0 +1,125 @@
+Targets, indicators and progress
+
+Target 14.1: Reduce marine pollution
+The full title of Target 14.1 is: "By 2025, prevent and significantly reduce marine pollution of all kinds, in particular from land-based activities, including marine debris and nutrient pollution."[1]
+
+It has one indicator: Indicator 14.1. is the "Index of coastal eutrophication and floating plastic debris density"[16]
+
+The "Index of Coastal Eutrophication (ICEP), refers to the inputs of nutrients (nitrogen, phosphorus and silica, in different forms) from rivers, and corresponding nutrient-ratio sub-indicator."[17] The methodology for ICEP will be developed and ready by 2020. No data is available for this indicator yet.[18]
+
+The "Floating Plastic Debris Density" refers to the modelled macro and micro plastics distribution in the ocean. If the quantities of floating micro is below 4.75mm, it is labeled as micro and if it is over 4.75 cm, it is labeled as macro. The amount of plastics in large marine ecosystems are measured based on "a model of surface water circulation and the use of proxy inputs". The final Floating Plastics Debris Density indicators will be ready by 2020.[17]
+
+Despite pervasive global pollution from plastics, there is only one indicator (14.1.1b) under Goal 14, specifically related to reducing impacts from plastics.[19] For all other sustainable development goals, there is no specific target in decreasing microplastics due to limitations of data.[20] Furthermore, there are no targets in reference to reducing microplastics, thus presenting a large challenge for governments to report and monitor microplastics in the environment.[20]
+
+Marine pollution from plastics
+
+plastic pollution washed up on shoreline
+This section is an excerpt from Marine plastic pollution § Scope of the problem.[edit]
+Marine pollution caused by plastic substances is recognized as an issue of the highest magnitude, from a pollution perspective.[21] A lot of the plastic that are used in people's day to day lives are never recycled, up to 90% and over 8 million metric tons of plastic waste is thrown into the ocean every year. If this continues, then by the year 2050 there will be more plastic than fish in the world by weight.[22] In just the first decade of the century, more plastic has been created than all the plastic in history up until the year of 2000 and a majority of that plastic is not recycled. There is an estimated 15 to 51 trillion pieces of plastic amongst all of the world's oceans stretching from the top of ocean to the seafloor.[23] Oceans are Earth's deepest and most extensive basins with average depths of the abyssal plains being about 4 km beneath sea level. Gravity will naturally move and transfer materials from land to the ocean, with the ocean becoming the end-repository.[24] One estimate of the historic production of plastic gives a figure of 8300 million metric tonnes (Mt) for global plastic production up to 2015, of which 79% have been accumulated in landfills or the natural environment.[25] Some 8 million tons of plastic waste enters the oceans every year.[26] According to the ICUN, this number has grown to 14 million tons of plastic.[26] Oceanic plastic pollution is remarkable for the sheer ubiquity of its presence, from ocean trenches, within deep sea sediment, on the ocean floor and ocean ridges to the ocean surface and coastal margins of oceans. Even remote island atolls can have beaches loaded with plastic from a faraway source. At the ocean surface, plastic debris is concentrated within circular structures of large areal extent, called ocean gyres. Ocean gyres form within all oceans, due to the interaction of global-scale ocean currents. Ocean currents concentrate plastic waste within the gyres.
+
+Plastics have been increasingly manufactured because of their flexible, molding and durable qualities, which provides plastic with a myriad of useful applications. Plastics are remarkably resistant to natural weathering processes that break down many other materials at the Earth's surface. Ocean processes, including storms, wave action, ocean currents, hydration, and surface exposure to the atmospheric weathering processes (e.g. oxidation) and ultraviolet radiation, tend to break plastic particles into ever-decreasing sizes (resulting in microplastics), rather than organically digest or chemically alter plastic substances. Estimates of the total number and weight of plastic across five ocean gyre plastic concentration zones are of the order of 5.25 trillion particles weighing almost 300,000 tons.[27] The reduction in size of plastic particles to the millimeter and micro-scales allow plastic to settle within deep sea sediments, with perhaps four times as much plastic ending up within sediments compared to surface ocean waters.[28] Plastics are now a part of complex biogeochemical cycles with living organisms, such as cetaceans, seabirds, mammals, and bacteria, ingesting plastic.[29]
+
+Target 14.2: Protect and restore ecosystems
+The full title of Target 14.2 is: "By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans".[1]
+
+This target has one indicator: Indicator 14.2.1 is "Number of countries using ecosystem-based approaches to managing marine areas".[30] This indicator aims at protecting and managing sustainably the marine and coastal ecosystems to avoid adverse impacts. An exclusive economic zone (EEZ) is a sea zone prescribed by the 1982 United Nations Convention on the Law of the Sea over which a sovereign state has special rights regarding the exploration and use of marine resources, including energy production from water and wind.
+
+No data is available for this indicator yet.[18]
+
+Target 14.3: Reduce ocean acidification
+
+Ocean acidification: mean seawater pH. Mean seawater pH is shown based on in-situ measurements of pH from the Aloha station.[31]
+The full title of Target 14.3 is: "Minimize and address the impacts of ocean acidification, including through enhanced scientific cooperation at all levels".[1]
+
+This target has one indicator: Indicator 14.3.1 is the "Average marine acidity (pH) measured at agreed suite of representative sampling stations".[16]
+
+No data is available for this indicator yet.[18]
+
+Ocean acidification is directly addressed by the target SDG 14.3. Ocean acidification is impacting on the ecosystems of marine environments that provide food, livelihoods, and other ecosystem services for a large proportion of the human population. Some 1 billion people are wholly or partially dependent on the ecosystem services provided by coral reefs in terms of fishing, tourism, and coastal management.[32] SDG 14 is fully intertwined with the impacts of ocean acidification, as its focus includes the protection and restoration of ecosystems, sustainable fishing, protection of coastal and marine areas and protecting the economic benefits derived from marine resources.
+
+This section is an excerpt from Ocean acidification.[edit]
+Target 14.4: Sustainable fishing
+
+World map for indicator 14.5.1 - Share of marine territorial waters that are protected in 2017.[31]
+The full title of Target 14.4 is: "By 2020, effectively regulate harvesting and end overfishing, illegal, unreported and unregulated fishing and destructive fishing practices and implement science-based management plans, in order to restore fish stocks in the shortest time feasible, at least to levels that can produce maximum sustainable yield as determined by their biological characteristics".[1]
+
+This target has one indicator: Indicator 14.4.1 is "the proportion of fish stocks within biologically sustainable levels".[18] This indicator aims to measure the proportion of global fish stocks which are overexploited, fully exploited and not fully exploited. A levels of fish stocks is sustainable if it is underexploited or fully exploited. Overexploited fish stocks are unsustainable. Sustainable fisheries means leaving enough fish in the ocean while also respecting habitats and ensuring people who depend on fishing can maintain their livelihoods. According to the World Wide Fund for Nature (WWF), more than 3 billion people rely on fish from marine and inland fisheries as a main source of protein.[33] According to the FAO, Fisheries sustain millions of jobs and often pass down traditions and knowledge from generation to generation.
+
+A report at the High-level Political Forum on Sustainable Development in 2021 stated that: "Sustainable fisheries accounted for approximately 0.1 per cent of global GDP in 2017".[34]: 22 
+
+Target 14.5: Conserve coastal and marine areas
+Further information: List of largest protected areas and Marine protected area
+The full title of Target 14.5 is: "By 2020, conserve at least 10 per cent of coastal and marine areas, consistent with national and international law and based on the best available scientific information".[1]
+
+This target has one indicator: Indicator 14.5.1 is the "coverage of protected areas in relation to marine areas".
+
+The term "Marine Protected Areas" include marine reserves, fully protected marine areas, no-take zones, marine sanctuaries, ocean sanctuaries, marine parks, locally managed marine areas and other. Each area has a specific level of protection and a specific allowed range of activities.[35]
+
+This indicator was met by the Swedish government in 2017.[36] Conserving coastal and marine areas has many benefits including maintaining the biodiversity and endangered species, providing areas where fish are able to reproduce, swan and grow to their adult size, maintaining local cultures, economies and livelihoods that are linked to the marine environment.[35]
+
+Also ,It was reported that Canada has protected approximately 793,906 km2 or 13.81% of Canada’s marine and coastal areas, and promised 25% of marine and coastal areas by 2025 and 30% by 2030. The Ocean Protection Plan summarizes Canada's national approach to SDG 14, with Fisheries and Oceans Canada serving as the federal focus on SDG 14.
+
+It was reported in 2021 that "mean protected area coverage of marine key biodiversity areas increased globally from 28 per cent in 2000 to 44 per cent in 2020".[34]: 21 
+
+There are a number of global examples of large marine conservation areas. The Papahānaumokuākea Marine National Monument, is situated in the central Pacific Ocean, around Hawaii, occupying an area of 1.5 million square kilometers.[37] Other large marine conservation areas include those around the Cook Islands, Antarctica, New Caledonia, Greenland, Alaska, Ascension island, and Brazil. As areas of protected marine biodiversity expand, there has been an increase in ocean science funding, essential for preserving marine resources.[38] In 2020, only around 7.5 to 8% of the global ocean area falls under a conservation designation.[39]
+
+Target 14.6: End subsidies contributing to overfishing
+The full title of Target 14.6 is: "By 2020, prohibit certain forms of fisheries subsidies which contribute to overcapacity and overfishing, eliminate subsidies that contribute to illegal, unreported and unregulated fishing and refrain from introducing new such subsidies, recognizing that appropriate and effective special and differential treatment for developing and least developed countries should be an integral part of the World Trade Organization fisheries subsidies negotiation".[1]
+
+This target has one indicator: Indicator 14.6.1 is the "Degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing".[30]
+
+In December 2016, the US government officially established the Seafood Import Monitoring Program to address illegal, unreported and unregulated (IUU) fishing products entering the market.[40] One of the key drivers of global overfishing is illegal fishing. It threatens marine ecosystems, puts food security and regional stability at risk, and is linked to major human rights violations and even organized crime.[40]
+
+The WWF estimates that the global losses of illegal fishing cost up to $36.4 billion each year.[40]
+
+Negotiations for Target 14.6 were in their final stages to ending harmful fisheries in 2020.[41] The deadline was set for June 2020, but due to the COVID-19 pandemic this was delayed, which has caused concerns in regards to the ability to support the fishing sector.[41]
+
+Target 14.7: Increase the economic benefits from sustainable use of marine resources
+The full title of Target 14.7 is: "By 2030, increase the economic benefits to small island developing states and least developed countries from the sustainable use of marine resources, including through sustainable management of fisheries, aquaculture and tourism".[1]
+
+This target has one indicator: Indicator 14.7.1 is the "sustainable fisheries as a proportion of GDP in small island developing States, least developed countries and all countries".[30]
+
+No data is available for this indicator yet.[18]
+
+The contribution of aquaculture and fisheries to the gross domestic product (GDP) is one of the most commonly used indicators of its economic performance.[42] According to the FAO, "around 57 million people worked in the primary sector of capture fisheries, the vast majority in small-scale fisheries."[43]
+
+Fisheries and aquaculture can contribute to alleviating poverty, hunger, malnutrition and economic growth. The contribution of sustainable fisheries to the global GDP was around 0.1% per year.[44]
+
+Non-living resources of the ocean (seabed mining)
+Further information: Deep sea mining
+One resource issue that should be taken account of to a higher degree than present within the SDGs are non-living resources.[45]: 355  Mining will always be a controversial though necessary activity. The balance between mining and marine environment will be one that can be assisted by a greater focus from SDG 14. Marine minerals include sea-dredged and seabed minerals. Sea-dredged minerals are normally extracted by dredging operations within coastal zones, to maximum sea depths of about 200 m. Minerals normally extracted from these depths include sand, silt and mud for construction purposes, mineral rich sands such as ilmenite and diamonds.[46] A potential mining industry of the future is seabed mining or the extraction of seabed minerals.[47] Seabed minerals are mostly located between 1 and 6 km beneath the ocean surface and comprise three main types: Polymetallic or seabed massive sulfide deposits, polymetallic or manganese nodules, cobalt-rich crusts.
+
+At the present time (2021) there is no commercial mining of seabed minerals. Mining of the seabed is a controversial issue, as it will inevitably have some deleterious environmental and biospheric impacts.[45]: 356  Some argue that there should be a total ban on seabed mining.[48] Individual  countries with significant deposits of seabed minerals within their large EEZ's are making their own decisions with respect to seabed mining, exploring ways of undertaking seabed mining without causing too much damage to the deep ocean environment,[49] or deciding not to develop seabed mines.[50]
+
+Target 14.a: Increase scientific knowledge, research and technology for ocean health
+The full title of Target 14.a is: "Increase scientific knowledge, develop research capacity and transfer marine technology, taking into account the Intergovernmental Oceanographic Commission Criteria and Guidelines on the Transfer of Marine Technology, in order to improve ocean health and to enhance the contribution of marine biodiversity to the development of developing countries, in particular small island developing States and least developed countries".[1]
+
+This target has one indicator: Indicator 14.a.1. is the "proportion of total research budget allocated to research in the field of marine technology". This indicators aims to improve ocean health and to enhance the contribution of marine biodiversity to the development of developing countries, in particular small island developing States and least developed countries.
+
+Target 14.b: Support small scale fishers
+
+a group of men puling in a fishing net on a beach in the Philippines
+The full title of Target 14.b is: "Provide access for small-scale artisanal fishers to marine resources and markets".[1]
+
+This target has one indicator: Indicator 14.b.1. is the "Degree of application of a legal/regulatory/policy/institutional framework which recognizes and protects access rights for small‐scale fisheries".[30]
+
+No data is available for this indicator yet.[18]
+
+Small-scale fisheries contribute to the nutrition, food security, sustainable livelihoods and poverty alleviation – especially in developing countries, according to the FAO.[51] Its mission is to also to recognize the small-scale fisheries sector dependents should be empowered to participate in decision-making with dignity and respect through integrated management of the social, economic and ecological systems.
+
+Target 14.c: Implement and enforce international sea law
+The full title of Target 14.c is: "Enhance the conservation and sustainable use of oceans and their resources by implementing international law as reflected in the United Nations Convention on the Law of the Sea, which provides the legal framework for the conservation and sustainable use of oceans and their resources, as recalled in paragraph 158 of "The future we want".[1]
+
+This target has one indicator: Indicator 14.c.1. is the "number of countries making progress in ratifying, accepting and implementing through legal, policy and institutional frameworks, ocean-related instruments that implement international law, as reflected in the United Nations Convention on the Law of the Sea".
+
+A report in 2021 stated that: "Many States have ratified or acceded to the United Nations Convention on the Law of the Sea (168 parties) and its implementing agreements (150 parties for the Agreement relating to the implementation of Part XI of the United Nations Convention on the Law of the Sea and 91 parties for the United Nations Fish Stocks Agreement)."[34]: 22 
+
+Custodian agencies
+Custodian agencies are in charge of measuring the progress of the indicators:[52]
+
+For Indicators under Targets 14.1 and 14.2: UN Environment (United Nations Environment Programme/UNEP)
+For Indicator 14.3.1: Intergovernmental Oceanographic Commission (IOC) of UNESCO
+For all Indicators under Targets 14.4, 14.6, 14.7 and 14.b: Food and Agriculture Organization of the United Nations (FAO)
+For Indicator 14.5.1: UN Environment World Conservation Monitoring Centre (UNEP-WCMC), BirdLife International (BLI) and International Union for Conservation of Nature (IUCN)
+For Indicator 14.a.1: Intergovernmental Oceanographic Commission of UNESCO
+For Indicator 14.c.1: Division for Ocean Affairs and the Law of the Sea, Office of Legal Affairs, United Nations Secretariat
